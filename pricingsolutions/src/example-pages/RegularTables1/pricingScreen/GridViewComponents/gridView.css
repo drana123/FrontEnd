@@ -1,0 +1,23 @@
+.pricingScreen {
+    text-align: center;
+  }
+  
+  .pricingScreen > div {
+    background-color: #f1f1f1;
+    font-size: 30px;
+    margin-left:1%;
+  }
+  
+.dateFilter{
+    margin-top: 10%;
+    border: 6px solid #69778142;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.dataFilter{
+    border: 6px solid #69778142;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
